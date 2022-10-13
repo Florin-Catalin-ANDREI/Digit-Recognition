@@ -1,4 +1,4 @@
-# Digit-Recognition
+# Graphical User Interface for Digit Recognition
 A Graphical User Interface for digit (numbers: 0, 1, 2, ... , 8, 9) recognition using a Neural Network
 
 This is an application for Neural Networks that I recently created.

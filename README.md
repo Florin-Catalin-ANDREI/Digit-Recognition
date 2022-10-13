@@ -1,5 +1,6 @@
 # Graphical User Interface for Digit Recognition
 A Graphical User Interface for digit (numbers: 0, 1, 2, ... , 8, 9) recognition using a Neural Network
+(This is a Windows application)
 
 This is an application for Neural Networks that I recently created.
 The Neural Network can be easily adapted to recognize patterns and to make classifications in any kind of data sets.

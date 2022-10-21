@@ -1,0 +1,4 @@
+C:\Users\CATALIN\source\repos\Digit Recognition\Debug\Digit Recognition.vcxproj.AssemblyReference.cache
+C:\Users\CATALIN\source\repos\Digit Recognition\Debug\DigitRecognition.DigitRecognition.resources
+C:\Users\CATALIN\source\repos\Digit Recognition\Debug\Digit Recognition.vcxproj.GenerateResource.cache
+C:\Users\CATALIN\source\repos\Digit Recognition\Debug\Digit Recognition.exe
